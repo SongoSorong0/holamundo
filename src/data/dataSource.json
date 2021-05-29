@@ -1,9 +1,10 @@
 {
     "dataSource3":[
-        {"serial":"1010","nombre":"lapiceros","cantidad":"50"},
-        {"serial":"1010","nombre":"lapiceros","cantidad":"50"},
-        {"serial":"1010","nombre":"lapiceros","cantidad":"50"},
-        {"serial":"1010","nombre":"lapiceros","cantidad":"50"},
-        {"serial":"1010","nombre":"lapiceros","cantidad":"50"}        
+        {"serial":"1010","nombre":"lapiceros","cantidad":"503"},
+        {"serial":"1011","nombre":"lapiceros","cantidad":"5012"},
+        {"serial":"1012","nombre":"lapiceros","cantidad":"500"},
+        {"serial":"1013","nombre":"lapiceros","cantidad":"56"},
+        {"serial":"1054","nombre":"lapiceros","cantidad":"59"},
+        {"serial":"1067","nombre":"lapiceros","cantidad":"34"}        
     ]
 }
